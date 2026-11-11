@@ -1,11 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
+type: software
 title: "Trust-Bounded Governance for LLM-Assisted SDN-IoT Defense: code and data"
+abstract: "Code, installer, analysis scripts and run data for the manuscript 'Trust-Bounded Governance for LLM-Assisted SDN-IoT Defense: Formal Safety Guarantees in the Presence of Prompt Injection'. An untrusted advisor (rule-based, LLM or hybrid) proposes directives to an SDN controller; a deterministic verifier (V1-V10) admits them, and trusted IoT devices receive a metered, self-expiring fast path. The package reproduces 1,362 Mininet runs (1,351 valid) on os-ken, ONOS and POX."
 authors:
   - family-names: Jasim
     given-names: Mohammed R.
     affiliation: "College of Medical Sciences, Jabir Ibn Hayyan University for Medical and Pharmaceutical Sciences"
     email: Mohammed.r.alyasiri@jmu.edu.iq
-version: "7.2"
-date-released: 2026-11-08
+keywords:
+  - software-defined networking
+  - Internet of Things
+  - large language models
+  - prompt injection
+  - formal verification
+  - DDoS defense
+version: "1.0"
+date-released: 2026-11-11
 license: MIT
+repository-code: "https://github.com/mohammedralyasiri/trust-bounded-sdn-iot"
