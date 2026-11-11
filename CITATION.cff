@@ -15,7 +15,8 @@ keywords:
   - prompt injection
   - formal verification
   - DDoS defense
-version: "1.0"
+version: "1.0.1"
+doi: 10.5281/zenodo.24140059
 date-released: 2026-11-11
 license: MIT
 repository-code: "https://github.com/mohammedralyasiri/trust-bounded-sdn-iot"

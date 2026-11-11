@@ -1,9 +1,13 @@
 # Trust-Bounded Governance for LLM-Assisted SDN-IoT Defense — code and data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24140059.svg)](https://doi.org/10.5281/zenodo.24140059)
+
 Reproducibility package for:
 
 > Jasim, M. R. (2026). *Trust-Bounded Governance for LLM-Assisted SDN-IoT Defense:
 > Formal Safety Guarantees in the Presence of Prompt Injection.* Manuscript submitted to *Computer Networks*.
+>
+> Code and data: https://doi.org/10.5281/zenodo.24140059
 
 ## Contents
 
@@ -20,7 +24,7 @@ Reproducibility package for:
 | `data/scale_runs.csv`, `data/bench_gov.csv` | Scaling runs with controller CPU and memory, and the governance microbenchmark (Section 7.9) |
 
 Raw per-run logs (flow tables, PacketIn counters, governor prompts and answers, meter samples, join and MQTT
-records; about 1 GB) are archived separately on Zenodo: <add DOI before submission>.
+records; about 1 GB) are available from the author on request.
 
 ## Environment used in the paper
 
