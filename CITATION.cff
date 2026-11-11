@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Trust-Bounded Governance for LLM-Assisted SDN-IoT Defense: code and data"
+authors:
+  - family-names: Jasim
+    given-names: Mohammed R.
+    affiliation: "College of Medical Sciences, Jabir Ibn Hayyan University for Medical and Pharmaceutical Sciences"
+    email: Mohammed.r.alyasiri@jmu.edu.iq
+version: "7.2"
+date-released: 2026-11-08
+license: MIT
